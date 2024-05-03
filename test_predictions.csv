@@ -1,0 +1,11 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,Sleep Disorder,risiko_depresi
+1,1,27,Software Engineer,6.1,6,42,6,,0
+2,1,28,Doctor,6.2,6,60,8,,0
+3,1,28,Doctor,6.2,6,60,8,,0
+4,1,28,Sales Representative,5.9,4,30,8,1.0,1
+5,1,28,Sales Representative,5.9,4,30,8,1.0,1
+6,1,28,Software Engineer,5.9,4,30,8,0.0,1
+7,1,29,Teacher,6.3,6,40,7,0.0,0
+8,0,30,Nurse,6.4,5,35,7,,0
+9,0,30,Nurse,6.4,5,35,7,,0
+10,0,31,Nurse,7.9,8,75,4,,0

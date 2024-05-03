@@ -1,0 +1,11 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,Sleep Disorder
+1,Male,27,Software Engineer,6.1,6,42,6,None
+2,Male,28,Doctor,6.2,6,60,8,None
+3,Male,28,Doctor,6.2,6,60,8,None
+4,Male,28,Sales Representative,5.9,4,30,8,Sleep Apnea
+5,Male,28,Sales Representative,5.9,4,30,8,Sleep Apnea
+6,Male,28,Software Engineer,5.9,4,30,8,Insomnia
+7,Male,29,Teacher,6.3,6,40,7,Insomnia
+8,Female,30,Nurse,6.4,5,35,7,
+9,Female,30,Nurse,6.4,5,35,7,
+10,Female,31,Nurse,7.9,8,75,4,
